@@ -15,7 +15,7 @@
   - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.md#introdução-anapana)
   - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.md#anapana)
   - [Vedananupassana (continuous mindfulness of feelings)](README.md#vedananupassana)
-  - [Consciência dos processos mentais (Meditação das Emoções)](README.md#meditação-das-emocões)
+  - [Consciência dos processos mentais (Meditação das Emoções)](README.md#meditação-das-emoções)
   - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.md#meditação-metta-bhawana)
 
 ### Introdução
