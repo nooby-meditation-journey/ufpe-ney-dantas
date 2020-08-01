@@ -12,11 +12,11 @@
   - [Práticas de controle da mente e consciência corporal (Maha Mantra Shivaia)](README.md#shivaia)
   - [Práticas de controle da mente e consciência corporal (Maha Mantra Shamata)](README.md#shamata)
   - [Práticas de controle da mente e consciência corporal (Maha MantraKrishna)](README.md#krishina)
-  - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.md#introdução%anapana)
+  - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.md#introdução-anapana)
   - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.md#anapana)
   - [Vedananupassana (continuous mindfulness of feelings)](README.md#vedananupassana)
-  - [Consciência dos processos mentais (Meditação das Emoções)](README.md#meditação%das%emocões)
-  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.md#meditação%metta%bhawana)
+  - [Consciência dos processos mentais (Meditação das Emoções)](README.md#meditação-das-emocões)
+  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.md#meditação-metta-bhawana)
 
 ### Introdução
 - O Vídeo instrutivo sobre a ergonomia da meditação : https://www.youtube.com/watch?v=ZnpOulsZ1aw
