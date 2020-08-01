@@ -8,15 +8,15 @@
 | Consciência do corpo, dospensamentos e das emoções. Respiração PLCR. Meditação Anapana extendida 	| Consciência dos processosmentais e emocionais. Respiração PLCR. Meditação Anapana extendida 	| Consciência dos processosmentais e emocionais. Respiração PLCR. Meditação Anapana extendida. Love & Kindnes 	| Consciência dos procementais e emocion. Respiração PLCR. Meditação Anapana ex. Encerramento 	|
 
 ## Tópicos da Meditação
-  - [Introdução à Meditação](README.me#introducao)
-  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shivaia)](README.me#shivaia)
-  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shamata)](README.me#shamata)
-  - [Práticas de controle da mente e consciência corporal (Maha MantraKrishna)](README.me#krishina)
-  - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.me#introducao_anapana)
-  - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.me#anapana)
-  - [Vedananupassana (continuous mindfulness of feelings)](README.me#vedananupassana)
-  - [Consciência dos processos mentais (Meditação das Emoções)](README.me#meditacao_das_emocoes)
-  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.me#meditacao_metta_bhawana)
+  - [Introdução à Meditação](README.md#introducao)
+  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shivaia)](README.md#shivaia)
+  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shamata)](README.md#shamata)
+  - [Práticas de controle da mente e consciência corporal (Maha MantraKrishna)](README.md#krishina)
+  - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.md#introducao_anapana)
+  - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.md#anapana)
+  - [Vedananupassana (continuous mindfulness of feelings)](README.md#vedananupassana)
+  - [Consciência dos processos mentais (Meditação das Emoções)](README.md#meditacao_das_emocoes)
+  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.md#meditacao_metta_bhawana)
 
 ### Introdução
 - O Vídeo instrutivo sobre a ergonomia da meditação : https://www.youtube.com/watch?v=ZnpOulsZ1aw
