@@ -8,17 +8,17 @@
 | Consciência do corpo, dospensamentos e das emoções. Respiração PLCR. Meditação Anapana extendida 	| Consciência dos processosmentais e emocionais. Respiração PLCR. Meditação Anapana extendida 	| Consciência dos processosmentais e emocionais. Respiração PLCR. Meditação Anapana extendida. Love & Kindnes 	| Consciência dos procementais e emocion. Respiração PLCR. Meditação Anapana ex. Encerramento 	|
 
 ## Tópicos da Meditação
-  - [Introdução à Meditação](README.me#Introducao)
-  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shivaia)](README.me#Shivaia)
-  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shamata)](README.me#Shamata)
-  - [Práticas de controle da mente e consciência corporal (Maha MantraKrishna)](README.me#krishina)
+  - [Introdução à Meditação](README.me# Introdução)
+  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shivaia)](README.me# Shivaia)
+  - [Práticas de controle da mente e consciência corporal (Maha Mantra Shamata)](README.me# Shamata)
+  - [Práticas de controle da mente e consciência corporal (Maha MantraKrishna)](README.me# krishina)
   - [Práticas de controle da mente e consciência dos processos corporais (Introdução a Anapana com S.N. Goenka)](README.me#Introdução_Anapana)
-  - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.me#Anapana)
-  - [Vedananupassana (continuous mindfulness of feelings)](README.me#Vedananupassana)
-  - [Consciência dos processos mentais (Meditação das Emoções)](README.me#Meditação_das_Emoções)
-  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.me#Meditação_Metta_Bhawana)
+  - [Consciência dos processos corporai (Anapana com S.N. Goenka)](README.me# Anapana)
+  - [Vedananupassana (continuous mindfulness of feelings)](README.me# Vedananupassana)
+  - [Consciência dos processos mentais (Meditação das Emoções)](README.me# Meditação_das_Emoções)
+  - [Consciência dos Processos Mentais - (Meditação Metta Bhawana de compaixão)](README.me# Meditação_Metta_Bhawana)
 
-### Introducao
+### Introdução
 - O Vídeo instrutivo sobre a ergonomia da meditação : https://www.youtube.com/watch?v=ZnpOulsZ1aw
 - Vejam com cuidado e escolham a melhor condição para vcs.
 - Encostar no espaldar da cadeira ou em uma parede também é uma opção.
